@@ -1,1 +1,2 @@
-print("help menya derzat v zalognikax")
+print("hello world")
+print("kakashki")
